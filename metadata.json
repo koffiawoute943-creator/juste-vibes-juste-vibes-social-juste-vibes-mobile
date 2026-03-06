@@ -1,0 +1,8 @@
+{
+  "name": "Juste Vibes",
+  "description": "Une plateforme sociale moderne pour partager des vibes, de la musique et connecter avec des amis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
